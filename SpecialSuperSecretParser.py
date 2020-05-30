@@ -11,7 +11,7 @@ y = 1
 
 y = 2
 
-if y < x:
+if y <= x:
     pass
 
 
