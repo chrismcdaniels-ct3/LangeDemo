@@ -1,9 +1,15 @@
+import Class1
 
 
 
 
 
-x = 0
+x = Class1()
+
+x.secret_sauce()
+
+print("This worked")
+
 y = 1
 
 if x < y:
