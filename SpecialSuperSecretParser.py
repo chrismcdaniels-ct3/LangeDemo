@@ -18,6 +18,9 @@ if y <= x:
 if x > y:
     pass
 
+def wholeNewFunction():
+    return 0
+
 
 def json_parase101():
     pass
