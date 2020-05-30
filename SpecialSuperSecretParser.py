@@ -25,7 +25,7 @@ def json_parase101():
 
 
 def fun():
-
+    pass
 
 def fun2():
     if x < y:
