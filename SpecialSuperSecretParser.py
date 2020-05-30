@@ -19,3 +19,14 @@ if x > y:
     pass
 
 
+def json_parase101():
+    pass
+    # do stuff and things to json
+
+
+def fun():
+
+
+def fun2():
+    if x < y:
+        pass
