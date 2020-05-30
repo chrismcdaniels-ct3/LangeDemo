@@ -21,7 +21,7 @@ if x > y:
 def wholeNewFunction():
     return 0
 
-def json_parase101():
+def json_parse101():
     pass
     # do stuff and things to json
 
