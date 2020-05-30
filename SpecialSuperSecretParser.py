@@ -1,9 +1,6 @@
 import Class1
 
 
-
-
-
 x = Class1()
 
 x.secret_sauce()
@@ -12,7 +9,13 @@ print("This worked")
 
 y = 1
 
-if x < y:
+y = 2
+
+if y < x:
     pass
-    #do some parsing stuff
+
+
+if x > y:
+    pass
+
 
